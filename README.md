@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.ibb.co/LzfP66C/kuromi-profile.jpg" />
+<img align="right" height="200" src="1583-kuromi-aesthetic-icon.png" alt="Kuromi Avatar" />
 
 ###
 

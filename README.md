@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="1583-kuromi-aesthetic-icon.png" alt="Kuromi Avatar" />
+<img align="right" height="180" src="kuromiGit.jpg" alt="Kuromi Avatar" style="margin-bottom: 30px; margin-left: 20px;" />
 
 ###
 

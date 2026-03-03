@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/8b/8b/07/8b8b072236a2829392e6244df8865e9c.jpg" />
+<img align="right" height="200" src="https://i.ibb.co/LzfP66C/kuromi-profile.jpg" />
 
 ###
 

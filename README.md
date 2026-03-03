@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <img src="kuromiGit.jpg" height="150" style="margin-left: 100px; vertical-align: middle;" alt="Kuromi Avatar" />
+  <img src="kuromiGit.jpg" height="150" style="margin-left: 50px; vertical-align: middle;" alt="Kuromi Avatar" />
 </div>
 
 ###

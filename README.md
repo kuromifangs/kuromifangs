@@ -2,9 +2,9 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: top;">
       <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
         <img width="12" />
@@ -32,9 +32,9 @@
         </a>
       </div>
     </td>
-    <td width="50"></td>
-    <td valign="middle">
-      <img src="kuromiGit.jpg" height="150" alt="Kuromi Avatar" />
+    <td style="border: none; padding: 0;" width="40"></td>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <img src="kuromiGit.jpg" height="150" alt="Kuromi Avatar" style="display: block; border: none;" />
     </td>
   </tr>
 </table>

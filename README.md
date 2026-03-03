@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="kuromiGit.jpg" alt="Kuromi Avatar" style="margin-bottom: 30px; margin-left: 20px;" />
+<img align="right" height="180" src="kuromiGit.jpg" alt="Kuromi Avatar" style="margin-bottom: 20px; margin-left: 20px;" />
 
 ###
 
@@ -39,6 +39,8 @@
 
 <br clear="both">
 
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/qees8bm3o8u2l495tp0ykniiy" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=qees8bm3o8u2l495tp0ykniiy&count=3&width=1000" alt="Spotify recently played" width="100%" />
@@ -46,4 +48,3 @@
 </div>
 
 ###
-

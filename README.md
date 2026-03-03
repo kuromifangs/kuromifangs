@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="180" src="kuromiGit.jpg" alt="Kuromi Avatar" style="margin-bottom: 20px; margin-left: 20px;" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -33,13 +29,13 @@
   <a href="https://www.linkedin.com/in/shima-albeniz-zabala-694402253" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+
+  <img src="kuromiGit.jpg" height="150" style="margin-left: 50px; vertical-align: middle;" alt="Kuromi Avatar" />
 </div>
 
 ###
 
 <br clear="both">
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/qees8bm3o8u2l495tp0ykniiy" target="_blank">

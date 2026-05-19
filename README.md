@@ -37,6 +37,6 @@
 
 ⋆｡˚ ☁︎ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆｡˚ ☁︎ ˚｡⋆
 
-***coded with ♡ and chaos*** 🎀
+***coded with ♡ and chaos*** 
 
 </div>

@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="kuromiGit.jpg" width="140" height="140" align="left" alt="Fangs Studio Avatar" style="border-radius: 50%;" />
-  &nbsp;&nbsp;<b>💻 Diseñador web</b><br>
   &nbsp;&nbsp;💗 <i>Aesthetic meets performance</i> 💗<br>
   &nbsp;&nbsp;Web Developer || Tech & Marketing 🖥️
 </p>
@@ -34,7 +33,11 @@
 
 ⋆｡˚ ☁︎ ˚｡⋆ Current hyperfixation song ⋆｡˚ ☁︎ ˚｡⋆
 
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/playing?username=kuromi_fangs&theme=dark)](http://googleusercontent.com/spotify.com/3)
+<div align="center">
+  <a href="https://open.spotify.com/user/qees8bm3o8u2l495tp0ykniiy" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qees8bm3o8u2l495tp0ykniiy&count=3&width=1000" alt="Spotify recently played" width="100%" />
+  </a>
+</div>
 
 </div>
 

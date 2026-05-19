@@ -1,14 +1,13 @@
 <div align="center">
 
 # ⋆˚࿔ ⋆౨ৎ˚ Fangs Studio ˚౨ৎ⋆ ࿔˚⋆
-### 🖤 `kuromifangs` 🖤
+### 🖤 `Hi, I'm kuromifangs` 🖤
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="kuromiGit.jpg" width="140" height="140" align="left" alt="Fangs Studio Avatar" style="border-radius: 50%;" />
   &nbsp;&nbsp;💗 <i>Aesthetic meets performance</i> 💗<br>
   &nbsp;&nbsp;Web Developer || Tech & Marketing 🖥️
 </p>

@@ -29,7 +29,7 @@
 ---
 
 ## ✿ my code ✿
- > ⟡ &nbsp;**feel free to:** explore the code, fork repositories, and get inspired  
+ > ⟡ &nbsp;Explore the code and get inspired. If you fork this repository or use it as inspiration, leaving a ⭐ or giving credit is greatly appreciated!
 
 ---
 
